@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab02-EditText</string>
+    <string name="nameButtonText">Submit!</string>
+    <string name="nameFieldHint">Enter your name</string>
+    <string name="nameMessageText">Hello World!</string>
+    <string name="planetButtonText">Next Planet!</string>
+    <string name="planetMessageText">Pluto :O</string>
+    <string-array name="planets">
+        <item>Mercury!</item>
+        <item>Venus!!</item>
+        <item>Earth!!!</item>
+        <item>Mars!!!!!!</item>
+    </string-array>
+</resources>
